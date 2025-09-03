@@ -8,7 +8,7 @@ public class HomeController {
 
     @PostMapping
     public String create() {
-        return "Create API not yet implemented";
+        return "Create API is now available to service clients";
     }
 
     @GetMapping
